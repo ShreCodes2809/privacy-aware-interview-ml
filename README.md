@@ -1,3 +1,8 @@
+# **Privacy Enhancing Machine Learning for Job Interview Analysis**
+This project explores privacy-preserving machine learning techniques to assess communication quality in job interviews. Using the VetTrain dataset, the study classifies responses into four levels: under-explained, succinct, comprehensive, and over-explained. The focus is on developing fair, ethical, and privacy-enhancing models for automated job interview evaluations.
+
+---
+
 ## **Project Overview**
 The primary objective of this project is to:
 - Analyze the quality of responses in job interviews.
